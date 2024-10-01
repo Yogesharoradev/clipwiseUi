@@ -36,7 +36,7 @@ const Hero = () => {
 
       <div className="flex flex-col items-center z-10 relative drop-shadow-2xl">
         <div className="bg-white h-[500px] w-[500px] flex justify-center items-center relative rounded-3xl shadow-lg overflow-hidden">
-          <h1 className='bg-[#8994e5] text-white px-5 py-2 rounded-r-xl absolute top-24 left-0'>New Lot</h1>
+          <h1 className='bg-[#8994e5] text-white px-5 py-2 rounded-r-xl absolute top-28 left-0'>New Lot</h1>
           
           <img 
             src="/ring.jpg" 
